@@ -1,0 +1,44 @@
+h1{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 4rem;
+}
+.blog{
+    text-align: center;
+    font-size: 2rem;
+    padding: 3rem 5rem;
+}
+ ol,ul {
+  display: inline-block;
+  text-align: left;
+}
+hr{
+    width: 50rem;
+    color: #AD1C05;
+    border-color: #AD1C05;
+}
+.bold-names{
+    color: #AD1C05;
+}
+.image_left{
+    float: left;
+    width: 500px;
+    margin-right: 5rem;
+}
+#image_right{
+    float: right;
+    width: 600px;
+    margin-right: 5rem;
+}
+.p_gibson{
+    margin: 20rem 10rem;
+    text-align: center;
+}
+.p_ibanez{
+    margin: 20rem 10rem;
+    text-align: center;
+}
+.p_esp{
+    margin: 25rem 10rem;
+    text-align: center;
+}

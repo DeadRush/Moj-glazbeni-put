@@ -1,0 +1,25 @@
+#bg_image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://images.unsplash.com/photo-1565829577241-474d81bf757c?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50rem;
+}
+nav{
+    text-align: right;
+    padding: 1.5rem;
+}
+nav a{
+    padding: 1.5rem;
+    transition: all 300ms ease;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+.navbar a{
+    color: black;
+}
+ nav a:hover{
+background-color: #AD1C05;
+color: white;
+border-radius: 1rem;
+}

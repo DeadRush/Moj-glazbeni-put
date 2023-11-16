@@ -1,0 +1,44 @@
+#img_heading{
+    text-align: center;
+    color: white;
+    margin-top: 15rem;
+    font-size: 5rem;
+}
+#heading{
+ text-align: center;
+ padding: 1.5rem;
+ font-size: 4rem;
+ padding-bottom: 5rem;
+}
+.bold-names{
+    color: #AD1C05;
+}
+.image_left{
+    float: left;
+    width: 500px;
+    margin-right: 5rem;
+}
+#image_right{
+    float: right;
+    width: 600px;
+    margin-right: 5rem;
+}
+p{
+    font-size: 2rem;
+    margin-top: 2rem;
+    text-align: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.p_yamaha{
+    margin: 5rem 10rem;
+    text-align: center;
+}
+.p_ibanez{
+    margin: 20rem 10rem;
+    text-align: center;
+}
+.p_epiphone{
+    margin: 25rem 10rem;
+    text-align: center;
+}
